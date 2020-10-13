@@ -1,3 +1,3 @@
 # Exercício 01 - devops
 
-<https://hub.docker.com/repository/docker/carlospavanetti/fullcycle-devops-01>
+<https://hub.docker.com/r/carlospavanetti/fullcycle-devops-01>
