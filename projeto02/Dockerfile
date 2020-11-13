@@ -10,4 +10,4 @@ FROM scratch
 WORKDIR /app
 COPY --from=build-env /src/main.out /app/
 
-ENTRYPOINT ./main.out
+ENTRYPOINT ["/app/main.out"]
